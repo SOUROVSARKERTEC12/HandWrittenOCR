@@ -1,0 +1,8 @@
+
+Tensorflow => 2.0.0
+Keras => 2.3.1
+Matplotlib => 3.5.3
+Numpy => 1.21.6
+Opencv-python => 4.2.0
+Sklearn => 0.0
+Pillow => 9.2.0
